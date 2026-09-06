@@ -9,6 +9,29 @@
  * role time tracking, if you do this and get it wrong you will die
  * and it will hurt the entire time
  */
+// No Department
+#define JOB_CITIZEN "Citizen"
+
+//Invictus
+#define JOB_SHERIFF "Sheriff"
+#define JOB_HOUND "Hound"
+#define JOB_HARPY "Harpy"
+#define JOB_SENESCHAL "Seneschal"
+
+//Lancea
+#define JOB_BISHOP "Bishop"
+
+//Carthians
+#define JOB_REPRESENTATIVE "Carthian Representative"
+#define JOB_WHIP "Carthian Whip"
+
+//Crones
+#define JOB_HIEROPHANT "Hierophant"
+#define JOB_HARUSPEX "Haruspex"
+#define JOB_ACOLYTE "Acolyte"
+
+//Ordo Dracul
+#define JOB_SWORN "Sworn"
 /* // VTRN REMOVE START - Job Code foundations - #1
 //No department
 #define JOB_CITIZEN "Citizen"
