@@ -9,7 +9,7 @@
  * role time tracking, if you do this and get it wrong you will die
  * and it will hurt the entire time
  */
-/* // VTRN REMOVE START
+/* // VTRN REMOVE START - Job Code foundations - #1
 //No department
 #define JOB_CITIZEN "Citizen"
 #define JOB_ORDINARY_CITIZEN "Unassigned"
@@ -273,4 +273,4 @@ DEFINE_BITFIELD(departments_bitflags, list(
 #define EXP_TYPE_MANOR "Tzimisce Manor"
 #define EXP_TYPE_CHURCH "Church"
 #define EXP_TYPE_CLUB "Strip Club"
-*/ // VTRN REMOVE END
+*/ // VTRN REMOVE END - Job Code foundations - #1
